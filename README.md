@@ -1,0 +1,1 @@
+# currencymap-for-accounting.json
