@@ -2,13 +2,13 @@
 
 Contain all important information for currency. Now you can easily format amount with the accounting.js.
 
-## Source data:## 
+## Source data:
 https://gist.github.com/Fluidbyte/2973986
 
 I supplemented it with the appropriate format data.
 
 
-## Accounting.js## 
+## Accounting.js
 http://openexchangerates.github.io/accounting.js/
 ```
 // Default usage:
