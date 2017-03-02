@@ -1,4 +1,4 @@
-var currencyData = {
+currencyData = {
 	"USD" : {
 		"original_symbol" : "$",
 		"name" : "US Dollar",
@@ -263,7 +263,7 @@ var currencyData = {
 		"decimal" : ",",
 		"format" : "%v %s"
 	},
-	"%s %v" : {
+	"CHF" : {
 		"original_symbol" : "CHF",
 		"name" : "Swiss Franc",
 		"symbol" : "CHF",
