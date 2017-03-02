@@ -1,4 +1,4 @@
-currencyData = {
+{
 	"USD" : {
 		"original_symbol" : "$",
 		"name" : "US Dollar",
